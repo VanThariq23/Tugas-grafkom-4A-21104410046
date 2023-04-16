@@ -12,6 +12,6 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
+| NIM | 21104410046 |
+| Nama Lengkap | MOH. ALFAN THARIQ ISTIQLAL |
 | Kelas | TI-4A |
